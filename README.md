@@ -1,7 +1,10 @@
 <div align="center">
   <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/franshua-villano-olivera-61085b284/" style="color: #1e90ff; text-decoration: none;">Franshua</a> 😃</h1>
 </div>
-<img src="https://i.imgur.com/7HIyj0q.png">
+<div align="center">
+<img src="https://i.imgur.com/7HIyj0q.png" style="height:550px;">
+</div>  
+<p align="center">🚀 Machine Learning Engineer | AI Enthusiast |</p>
 
 📫 Cómo contactarme: [franzuavo@gmail.com](mailto:franzuavo@gmail.com)
 
