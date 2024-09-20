@@ -6,6 +6,13 @@
 </div>  
 <p align="center">🚀 Machine Learning Engineer | AI Enthusiast |</p>
 
+## SOBRE MI 
+- Uso de Google Cloud Platform
+- Uso de TensorFlow,TensorFlowLITE.
+- Uso de Google Colab.
+- Desarrollo de Clasificación de imagenes
+- Uso de Técnicas RAG, LangChain, Promtp Engeenering
+
 📫 Cómo contactarme: [franzuavo@gmail.com](mailto:franzuavo@gmail.com)
 
 <!--
